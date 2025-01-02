@@ -1,0 +1,11 @@
+# Custom build output
+dist/
+
+# Custom configuration file
+config.json
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
